@@ -4,4 +4,4 @@
 ### 버전 :  1.0
 ### 최초작성일 : 2019. 9. 29.
 ### 통계청 홈페이지 : http://kostat.go.kr/
-### 주의사항 : 소스 내 텔레그램 Bot/Channel API Token은 변경해야 함
+### ※ 주의사항 : 소스 내 텔레그램 Bot/Channel API Token은 변경해야 함
